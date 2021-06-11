@@ -1,5 +1,5 @@
 // configuration
-var quote = "I wish your birthday is the happiest..."
+var quote = "I hope your birthday turns out just like you… awesome"
 var birthdaywishee = "Happy Birthday, Neeraj!"
 var birthdaywisher = "- Ayaz Alam"
 
