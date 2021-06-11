@@ -4,7 +4,7 @@ var birthdaywishee = "Happy Birthday, Neeraj!"
 var birthdaywisher = "- Ayaz Alam"
 
 if (quote.length > 50) {
-    document.getElementById('quote').innerHTML = "“I wish your birthday is the happiest”"
+    document.getElementById('quote').innerHTML = "“I hope your birthday turns out just like you… awesome”"
 } else {
     document.getElementById('quote').innerHTML = "“" + quote + "”"
 }
